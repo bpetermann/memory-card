@@ -1,0 +1,19 @@
+.cardfield {
+  width: 75%;
+  max-width: 80rem;
+  margin: 18rem auto 2rem auto;
+  padding: 2rem;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 25px;
+}
+
+@media only screen and (max-width: 360px) {
+  .cardfield {
+    margin-top: 18rem;
+    width: 75%;
+  }
+}
