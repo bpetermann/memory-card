@@ -32,7 +32,7 @@
   color: #fff;
 }
 
-@media only screen and (max-width: 390px) {
+@media only screen and (max-width: 520px) {
   .board {
     height: 18.5rem;
   }
