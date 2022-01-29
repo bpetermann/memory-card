@@ -11,9 +11,12 @@
   gap: 25px;
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 390px) {
   .cardfield {
-    margin-top: 18rem;
-    width: 75%;
+    width: 80%;
+  }
+  .container {
+    grid-template-columns: repeat(auto-fit, minmax(90px, 90px));
+    gap: 50px;
   }
 }

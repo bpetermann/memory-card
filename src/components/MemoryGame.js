@@ -10,7 +10,7 @@ const MemoryGame = (props) => {
     return array;
   };
   const memoryCards = cardShuffle(props.cards);
-  console.log(selectedCards);
+
   const selectedCardHandler = (card) => {
     if (!selectedCards.includes(card)) {
       props.onSelectCard();

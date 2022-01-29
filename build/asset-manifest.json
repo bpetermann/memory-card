@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.723700c2.css",
+    "main.js": "/memory-card/static/js/main.88610a33.js",
+    "static/media/lovers.jpg": "/memory-card/static/media/lovers.82e44a1648add9d61a2b.jpg",
+    "static/media/death.jpg": "/memory-card/static/media/death.2ef479502c92a8eca6a2.jpg",
+    "static/media/world.jpg": "/memory-card/static/media/world.c6d7e3578d6c3af83141.jpg",
+    "static/media/fool.jpg": "/memory-card/static/media/fool.0c92c8320e9400f0e40b.jpg",
+    "static/media/empress.jpg": "/memory-card/static/media/empress.ac296419cb88c1d9bc89.jpg",
+    "static/media/chariot.jpg": "/memory-card/static/media/chariot.b9c8141a7f10ad75419a.jpg",
+    "static/media/temperance.jpg": "/memory-card/static/media/temperance.a6e28540f8b39529e758.jpg",
+    "static/media/tower.jpg": "/memory-card/static/media/tower.420277a9f797767f39de.jpg",
+    "static/media/hierophant.jpg": "/memory-card/static/media/hierophant.0e7adfe1314b4e7fb715.jpg",
+    "static/media/moon.jpg": "/memory-card/static/media/moon.3c3c7cd892214e0c5a07.jpg",
+    "static/media/hangedman.jpg": "/memory-card/static/media/hangedman.61a807efb67bfe2d737c.jpg",
+    "static/media/hermit.jpg": "/memory-card/static/media/hermit.c00db1b807c8833d8315.jpg",
+    "index.html": "/memory-card/index.html",
+    "main.723700c2.css.map": "/memory-card/static/css/main.723700c2.css.map",
+    "main.88610a33.js.map": "/memory-card/static/js/main.88610a33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.723700c2.css",
+    "static/js/main.88610a33.js"
+  ]
+}

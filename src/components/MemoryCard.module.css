@@ -18,3 +18,25 @@
   height: 270px;
   box-shadow: 2px 2px 6px #c3bab3, -5px -5px 12px #323232;
 }
+
+.intro {
+  animation: cards-appear 300ms ease-out forwards;
+}
+
+@keyframes cards-appear {
+  from {
+    opacity: 0;
+    transform: translateY(3rem);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media only screen and (max-width: 390px) {
+  .cards img {
+    height: 180px;
+  }
+}
