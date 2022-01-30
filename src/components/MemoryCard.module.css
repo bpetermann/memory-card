@@ -36,6 +36,11 @@
 }
 
 @media only screen and (max-width: 520px) {
+  .cards {
+    padding: 0px;
+    margin: 0px;
+  }
+
   .cards img {
     height: 180px;
   }
